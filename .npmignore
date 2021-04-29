@@ -8,7 +8,6 @@
 # misc
 /.all-contributorsrc
 /.bowerrc
-/.dependabot
 /.editorconfig
 /.ember-cli
 /.env*
